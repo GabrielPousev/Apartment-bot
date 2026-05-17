@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # ==========================================
 # הגדרות אישיות - מלא כאן את הפרטים שלך
 # ==========================================
-TELEGRAM_TOKEN = "8618582216:AAECI7jE8Q4OkmeSq-V8iApUT9-qbwL8orY"      # הטוקן מ-BotFather
+TELEGRAM_TOKEN= "YOUR_TOKEN_HERE"     # הטוקן מ-BotFather
 CHAT_ID = "1761397353"           # ה-ID מ-userinfobot
 
 # ==========================================
